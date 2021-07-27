@@ -1,0 +1,36 @@
+	Rodzina / grupa	Struktura rozwiązana	Nazwa pliku	Uwagi:	Ribbon od końca	Dł. helisy od N końca	Dł. helisy od C końca	55 in sturcture alignemnt	66 in sturcture alignemnt	144 in sturcture alignemnt	Motyw RHH: dimer - 1, monomer - 2	N-terminal_helix	C-terminal_helix	55th_AA	66th_AA	144th_AA	Długość pomiędzy helisami [liczba aminokwasów / 2]			50-beta-ranga	51-beta-ranga	53-beta-ranga	54-beta-ranga	55-beta-ranga
+VirC	PF07181 Knotted	1	PF07181_2RH3_A_82_202.pdb	PF07181_2RH3_A_146_202.pdb	N	10	21	F	P	K	1	1	4	1	1	3	4			3	7	3	5	1
+DndE	PF08870 Knotted	1	PF08870_5WTU_C_5_107.pdb	PF08870_5WTU_C_56_107.pdb	N	18	18	-	V	-	1	3	3	4	1	4	3			7	7	4	6	3
+DUF2540	PF10802 Knotted	1	PF10802_2EFV_A_14_87.pdb	PF10802_2EFV_A_49_87.pdb	N	10	12	K	R	L	1	1	2	3	3	1	0							
+MetJ	PF01340	1	PF01340_1CMC_A_3_99.pdb	PF01340_1CMC_A_16_66.pdb	N	15	12	T	V	L	2	2	2	3	1	1	4			5	1	3	1	3
+CopG	PF01402	1	PF01402_1B01_A_4_41.pdb		N	13	12	T	I	M	2	2	2	3	1	1	2			5	1	3	1	3
+VAPB_antitox	PF02697	0																						
+ParD_antitoxin	PF03693	1	PF03693_3KXE_C_5_79.pdb	PF03693_3KXE_C_5_62.pdb	N	10	30	N	T	V	2	1	5	3	3	1	4			7	7	3	3	3
+Arc	PF03869	1	PF03869_3QOQ_A_13_59.pdb		N	10	15	V	V	E	2	1	2	1	1	3	2			5	2	1	1	5
+RelB antitoxin	PF04221	1	PF04221_4FXE_A_2_69.pdb	PF04221_4FXE_A_2_42.pdb	N	13	14	N	-	A	2	2	2	3	4	1	2			3	1	3	1	5
+RHH_8	PF17723	0																						
+TraY	PF05509	0																						
+HicB	PF05534	0																						
+CcdA	PF07362	1	PF07362_2ADL_A_2_72.pdb	PF07362_2ADL_A_2_40.pdb	N	6	13	R	I	V	2	1	1	3	1	1	3			5	1	3	1	3
+PSK_trans_fac	PF07704	1	PF07704_4XGR_A_1_65.pdb	zakres wycięty ręcznie							2		2											
+Omega_Repress	PF07764	0																						
+RHH_5	PF07878	0																						
+DUF1778	PF08681	1	PF08681_1Y9B_A_7_83.pdb	PF08681_1Y9B_A_7_70.pdb	N	12	37	-	A	V	2	2	6	4	1	1	3			5	1	3	1	5
+ParG	PF09274	1	PF09274_1P94_A_1_76.pdb		N	13	14	N	V	V	2	2	2	3	1	1	2			5	1	3	1	3
+ParD	PF09386	1	PF09386_2AN7_A_1_78.pdb	PF09386_2AN7_A_1_39.pdb	N	13	8	T	I	Y	2	2	1	3	1	2	2			5	1	3	1	4
+VapB_antitoxin	PF09957	1	PF09957_4CHG_E_62_107.pdb	zakres wycięty ręcznie, plik zawiera jedno powtórzenie RHH	N	14	12	-	-	D	1	2	2	4	4	3	4			5	2	1	1	4
+RepB-RCR_reg	PF10723	0																						
+DUF2610	PF11020	0																						
+ParD_like	PF11903	0																						
+CopG_antitoxin	PF12441	0																						
+RHH_3	PF12651	0																						
+RHH_4	PF13467	1	PF13467_3KK4_A_15_83.pdb	PF13467_3KK4_A_23_67.pdb	N	13	15	S	V	-	1	2	2	3	1	4	2			6	1	1	3	3
+BrnA_antitoxin	PF14384	0																						
+HicB_lk_antitox	PF15919	1	PF15919_4P7D_C_3_129.pdb	PF15919_4P7D_C_89_129.pdb	N	7	7	N	L	F	2	1	1	3	1	1	6			3	1	3	1	3
+RHH_6	PF16762	1	PF16762_2K6L_A_2_51.pdb		N	13	17	N	I	F	2	2	3	3	1	1	4			3	1	1	1	3
+RHH_7	PF16777	1	PF16777_2K1O_A_21_65.pdb		N	11	12	F	Y	F	2	2	2	1	2	1	3			3	2	3	1	3
+SeqA_N	PF17206	1	PF17206_1XRX_A_1_35.pdb		N	9	8	T	I	F	2	2	1	3	1	1	4			3	1	4	1	4
+MatP_C	PF17414	1	PF17414_3VEB_A_101_160.pdb	zakres wycięty ręcznie	N	13	30	S	I	F	2	2	5	3	1	1	2			5	5	3	1	4
+TraM	PF05261 Outgroup	1	PF05261_3ON0_2_56.pdb	zakres wycięty ręcznie							?													
+HTH_3	PF01381 HTH_3 Outgroup	1	# outgrupa sekwencyjna								?													
+HTH_26	PF13443 HTH_26 Outgroup	0																						

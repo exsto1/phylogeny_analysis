@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#SBATCH --job-name=bayes_0
+#SBATCH --partition=ogr
+#SBATCH --ntasks=1
+
+./bayes/mb ./test_0/final.nexus > ./test_0/log_0.txt
+
+    

@@ -1,0 +1,49 @@
+	Rodzina / grupa	Waga	Notatka							
+VirC	PF07181_gr1 Knotted	7	udowodnione wiązanie z DNA (związanie z funkcją -> procesowanie T-DNA), dokładne analizy strukturalne, wiązanie z DNA jak podręcznikowe motywy RHR							
+VirC	PF07181_gr2 Knotted	7								
+DndE	PF08870_1&3 Knotted	6	udowodnione wiązanie z DNA						?	- brak danych o funkcji / prawdopodobnej funkcji
+DndE	PF08870_2&4 Knotted	6	sekwencja krótsza, mniej ciągła						8	- regulacja transkrypcji, replikacji, wiązanie z operatorem / promotorem
+DndE	PF08870_5-8 Knotted	6	sekwencja krótsza, mniej ciągła						9	- system TA
+DUF2540	PF10802_gr1 Knotted	?	białko hipotetyczne, struktura RHH dobrze widoczna, nie znalazłam znanych białek Methanococci wiążących DNA o podobnej strukturze						7	- cięcie DNA, procesowanie, często w kontekście HGT
+DUF2540	PF10802_gr2 Knotted	?							6	- chemiczna modyfikacja DNA
+MetJ	PF01340	8	udowodnione wiązanie z DNA, regulacja 8 jednostek transkrypcyjnych odpowiadających za dyntezę metioniny						5	- organizacja strukturana chromatyny
+CopG	PF01402	8	pewne wiązanie z DNA, regulacja transkrypcji Rep plazmidu Streptococcus, oligomeryzacja, ugięcie DNA							
+VAPB_antitox	PF02697	9	prawdopodobnie antytoksyny systemów TA, nie ma rozwiązanej struktury							
+ParD_antitoxin	PF03693_1&4	9	antytoksyny systemów TA, RHH - odpowiada za odziaływanie z DNA i dimeryzację							
+ParD_antitoxin	PF03693_2&3	9								
+Arc	PF03869_1&2	8	białko represora bakteriofaga P22, wiąże się z operatorem, regulacja przejścia z cyklu lizogennego na lityczny							
+Arc	PF03869_3&4	8								
+RelB antitoxin	PF04221	9	antytoksyna systemu RelBE, bierze udział w zahamowaniu translacji w odpowiedzi ścisłej							
+TraY	PF05509	7	udział w koniugacji, nikaza							
+HicB	PF05534	9	antytoksyna systemu TA HicAB, nierozwiązana struktura							
+CcdA	PF07362	9	post-segregation antitoxin CcdA proteins							
+PSK_trans_fac	PF07704	9	toxin-antitoxin 							
+Omega_Repress	PF07764	8	transcriptional repressor that regulates expression of genes for copy number control and stable maintenance of plasmids							
+RHH_5	PF07878_1&3	9								
+RHH_5	PF07878_2&4	9								
+DUF1778	PF08681	?								
+ParG	PF09274	9	plasmid partition proteins, prawdopodobnie system TA, białko kodowane w operonie parFG							
+ParD	PF09386	9	plasmid anti-toxin							
+VapB_antitoxin	PF09957	9	plasmid anti-toxin							
+RepB-RCR_reg	PF10723	8	regulate replication of rolling circle replication (RCR) plasmids							
+DUF2610	PF11020	?								
+ParD_like	PF11903	9								
+CopG_antitoxin	PF12441	9								
+RHH_3	PF12651	?								
+RHH_4	PF13467	?								
+BrnA_antitoxin	PF14384	9								
+HicB_lk_antitox	PF15919	9								
+RHH_6	PF16762	9	may be a part of a toxin-antitoxin system							
+RHH_7	PF16777	8	transcriptional regulator							
+SeqA_N	PF17206	8	Apart from its function in the control of DNA replication, SeqA may also be a specific transcription factor							
+MatP_C	PF17414	5	organises the macrodomain Ter of the chromosome							
+RHH_8	PF17723	8	transcriptional regulators (likely to be)							
+HTH_3	PF01381 HTH_26 Outgroup	8	białka HTH oddziałują z DNA, jednak unika się jednoznacznego przypisania im funkcji regulacji transkrypcji							
+HTH_26	PF13443 HTH_3 Outgroup	8	większość znanych białek z motywem HTH taką jednak posiada, stąd też zdecyowałam się przypisać im w macierzy rangę 8							
+TraM	PF05261 Outgroup	7	udział w koniugacji, wiązanie w oriT							
+										
+										
+										
+										
+										
+			 							
